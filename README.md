@@ -3,15 +3,10 @@ This project analyzes sales data from a fictional Superstore using Python. The d
 
 📌 Project Objectives
 Data Overview & Cleaning
-
 Inspect dataset shape, columns, and data types
-
 Check for null values and duplicates
-
 Drop unnecessary columns
-
 Key Metrics & Summary Statistics
-
 Total Sales, Profit, and Quantity
 
 Average Discount
