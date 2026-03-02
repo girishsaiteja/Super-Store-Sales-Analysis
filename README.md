@@ -92,6 +92,6 @@ Official documentation: Pandas, Matplotlib, Seaborn
 Dataset sourced from Kaggle and academic projects
 
 👩‍💻 Author
-GIRISH
+P. Girish Sai Teja
 Undergraduate Student | Data Enthusiast
 Project Title: Superstore Sales Analysis using Python
