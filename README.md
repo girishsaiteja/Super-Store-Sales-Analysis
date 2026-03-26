@@ -10,38 +10,24 @@ Key Metrics & Summary Statistics
 Total Sales, Profit, and Quantity
 
 Average Discount
-
 Most and least profitable sub-categories
-
 Data Visualizations for Trends & Patterns
-
 Pie charts, bar plots, scatter plots, line graphs
-
 Pair plots and box plots
-
 Combined bar and line charts for comparative insights
-
 Outliers and Anomaly Detection
-
 Correlation & covariance analysis
-
 IQR and Z-score methods to identify outliers
-
 Heatmap for Interdependencies
-
 Correlation matrix heatmap for numerical features
 
 🧰 Technologies Used
 Language: Python
 
 Libraries:
-
 Pandas (data manipulation)
-
 NumPy (numerical operations)
-
 Matplotlib & Seaborn (data visualization)
-
 SciPy (statistical analysis)
 
 📊 Dataset Description
